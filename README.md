@@ -1,5 +1,5 @@
 # Program-Unlocker
-This code will  help open some programs for you.
+
 Welcome to Program Unlocker:
 
 
