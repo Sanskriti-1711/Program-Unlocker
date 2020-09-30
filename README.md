@@ -18,16 +18,17 @@ Also I have added a demo video of the execution of the program.✌️
 This program will help you to perform following functions:
 
   * Open Google Chrome
-  * Open Notepad
+  * Open Command prompt
   * Open Gmail Inbox
   * Start Youtube
   * Open your LinkedIn profile
-  * Open Command Prompt
+  * Open YouTube
   * Exit from the program
 
 You can frame your own sentences as commands and the program just works fine.🥰
 
-Hope you like it! 💙 
+Hope you like it! 💙
+
  
 
 [block:image]
